@@ -50,16 +50,6 @@ This combination of **RFID** and **biometric** technology ensures flexibility an
 | LCD Display (optional) | Displays user messages |
 | Buzzer, LEDs | Feedback indicators |
 | Power Supply | 5V DC regulated supply |
-
----
-
-## Circuit Setup
-
-- Connect the **RFID** and **Fingerprint sensor** to the Arduino following their respective pin diagrams.  
-- Connect the **servo/relay module** to the control pin for door operation.  
-- Optionally connect an **LCD** and **buzzer** for feedback.  
-- Full wiring details are available in the `docs/Tinker_lab_report.pdf`.
-
 ---
 
 ## 💻 Arduino Code
