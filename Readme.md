@@ -75,8 +75,8 @@ Install these from the Arduino IDE Library Manager:
 
 ## Demonstration Videos
 
-- 🎥 [RFID Unlock Demo](videos/RFID_demo.mp4)  
-- 🎥 [Fingerprint Unlock Demo](videos/Fingerprint_demo.mp4)
+- 🎥 [RFID Unlock Demo](videos/RFID.mp4)  
+- 🎥 [Fingerprint Unlock Demo](videos/Fingerprint.mp4)
 
 ---
 
